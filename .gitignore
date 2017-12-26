@@ -4,3 +4,11 @@ bin/
 .classpath
 .settings/
 .DS_Store
+
+#
+#
+#
+
+bin/
+scalor/
+pom.xml.flatten
